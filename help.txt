@@ -1,0 +1,32 @@
+Aliens Invasion Manual
+
+Welcome to my own version of Aliens Invasion!
+
+Prepare yourself for an intense battle against extraterrestrial forces bent on Earth's domination, you will defend humanity.
+This manual will guide you through the basics to help you survive the alien onslaught.
+
+What is new in this version :
+ - update of graphics.
+ - add meteor to battle, if there is a collision with ship and meteors, you lose a ship.
+ - make screen like real galaxy with default stars position and meteors with black background.
+ - make ship move up and down.
+ - sounds (like bullets, ship explosion, meteor and level up ... etc ).
+
+Getting start :
+To play this amazing game, follow this guide:
+ - Press Return keypress or click with mouse on the play button to start game. 
+ - Press p or spacebard keypress to shoot.
+ - Press z or up keypress to move up.
+ - Press s or down keypress to move down. 
+ - Press d or right keypress to move right.  
+ - Press q or left keypress to move left.
+ - Press escape keypress to exit the game.
+
+
+Goal :
+The objective of the game is to earn points by eliminating aliens and safeguarding humans.
+  
+  
+
+
+
