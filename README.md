@@ -1,6 +1,1 @@
-"# Alien-Invasion" 
-"# Alien-Invasion" 
-"# Alien-Invasion" 
-"# Alien-Invasion" 
-"# Alien-Invasion" 
-"# Alien-Invasion" 
+Manual guide for Alien Invasion game is in help.txt
