@@ -40,7 +40,6 @@ class AlienInvasion:
         self.bullets = pygame.sprite.Group()
         self.aliens = pygame.sprite.Group() 
         self.meteors = pygame.sprite.Group()
-        self
         self._create_fleet()
         self._create_meteor()
         
@@ -113,6 +112,7 @@ class AlienInvasion:
             sleep(0.75)
         else:
             self.stats.game_active = False
+            self.settings.initialize_dynamic_settings()
             pygame.mouse.set_visible(True)
             
     def _update_aliens(self):
