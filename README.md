@@ -5,7 +5,7 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 
 ## Gameplay Video
 
-![Gameplay Video](path-to-your-video)
+![Gameplay Video](https://github.com/Uyadsb/Alien-Invasion/blob/main/3f45e76552574ba69b5f1e1afcd3f673.mov)
 
 ## Table of Contents
 
@@ -25,8 +25,8 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 
 ## Requirements
 
-   • Python 3.x
-   • Pygame library
+    • Python 3.x
+    • Pygame library
 
 ## Installation
 
