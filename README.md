@@ -3,6 +3,10 @@
 Alien Invasion is a classic space shooter game implemented in Python, following the guidelines from the book "Python Crash Course" by Eric Matthes. The player controls a spaceship to fight against waves of alien invaders.
 Prepare yourself for an intense battle against extraterrestrial forces bent on Earth's domination, you will defend humanity.
 
+## Gameplay Video
+
+![Gameplay Video](path-to-your-video)
+
 ## Table of Contents
 
    - [Features](#features)
@@ -45,13 +49,13 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 
 ## Controls
 
-   • **Start game**: `Return` or click with mouse on the play button. 
-   • **Shoot**: `p` or `Spacebard Arrows`.
-   • **Move up**: `z` or `Up Arrow`.
-   • **Move down**: `s` or `Down Arrow`.
-   • **Move right**: `d` or `Right Arrow`.
-   • **Move left**: `q` or `Left Arrow`.
-   • **Exit the game**: `Escape Arrow`.
+- **Start game**: `Return` or click with mouse on the play button.
+- **Shoot**: `p` or `Spacebar`.
+- **Move up**: `z` or `Up Arrow`.
+- **Move down**: `s` or `Down Arrow`.
+- **Move right**: `d` or `Right Arrow`.
+- **Move left**: `q` or `Left Arrow`.
+- **Exit the game**: `Escape Arrow`.
 
 ## Goal 
 
