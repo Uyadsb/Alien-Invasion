@@ -6,9 +6,10 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 ## Table of Contents
 
    - [Features](#features)
+   - [Requirements](#requirements)
    - [Installation](#installation)
-   - [How to Play](#how-to-play)
    - [Controls](#controls)
+   - [Goal](#goal)
    - [Contributing](#contributing)
 
 ## Features
@@ -30,26 +31,38 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
    git clone https://github.com/your-username/alien-invasion.git
 
 2. Go to folder:
-    ```cd alien-invasion
+   ```
+   cd alien-invasion
 
 3. Install the required dependencies:
-    ```pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt
 
 4.	Run the game:
-    ```python alien_invasion.py
-    ```
+   ```
+   python alien_invasion.py
+   ```
 
 ## Controls
 
-	 - 'Return' or click with mouse on the play button to start game. 
-	 - 'p' or 'spacebard' to shoot.
-	 - 'z' or 'Up' to move up.
-	 - 's' or 'Down' to move down. 
-	 - 'd' or 'Right' to move right.  
-	 - 'q' or 'Left' to move left.
-	 - 'Escape' to exit the game.
+	 - Start game: 'Return' or click with mouse on the play button. 
+	 - Shoot: 'p' or 'Spacebard Arrows'.
+	 - Move up: 'z' or 'Up Arrow'.
+	 - Move down: 's' or 'Down Arrow'.
+    - Move right: 'd' or 'Right Arrow'.
+	 - Move left: 'q' or 'Left Arrow'.
+	 - Exit the game: 'Escape Arrow'.
 
 ## Goal 
 
 The objective of the game is to earn points by eliminating aliens and safeguarding humans.
-  
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+  1. Fork the repository
+  2. Create a new branch (`git checkout -b feature-branch`)
+  3. Commit your changes (`git commit -m 'Add some feature'`)
+  4. Push to the branch (`git push origin feature-branch`)
+  5. Open a Pull Request
