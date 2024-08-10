@@ -1,4 +1,4 @@
-# Alien Invasion :alien::rocket:
+# :rocket: Alien Invasion :alien:
 
 Alien Invasion is a classic space shooter game implemented in Python, following the guidelines from the book "Python Crash Course" by Eric Matthes. The player controls a spaceship :rocket: to fight against waves of alien invaders :alien:.
 Prepare yourself for an intense battle against extraterrestrial forces bent on Earth's domination, you will defend humanity.
@@ -18,15 +18,15 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 
 ## Features
 
-    - Player-controlled spaceship :rocket:
-    - Multiple levels of increasing difficulty
-    - Score tracking
-    - Lives system
+   - Player-controlled spaceship :rocket:
+   - Multiple levels of increasing difficulty
+   - Score tracking
+   - Lives system
 
 ## Requirements
 
-    • Python 3.x
-    • Pygame library
+   • Python 3.x
+   • Pygame library
 
 ## Installation
 
