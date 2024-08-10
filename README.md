@@ -14,15 +14,15 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 
 ## Features
 
-    • Player-controlled spaceship
-    • Multiple levels of increasing difficulty
-    • Score tracking
-    • Lives system
+    - Player-controlled spaceship
+    - Multiple levels of increasing difficulty
+    - Score tracking
+    - Lives system
 
 ## Requirements
 
-    - Python 3.x
-    - Pygame library
+    • Python 3.x
+    • Pygame library
 
 ## Installation
 
@@ -41,7 +41,7 @@ Prepare yourself for an intense battle against extraterrestrial forces bent on E
 4.	Run the game:
    ```
    python alien_invasion.py
-   
+   ```
 
 ## Controls
 
